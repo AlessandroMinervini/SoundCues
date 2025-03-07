@@ -62,7 +62,7 @@ SoundCues leverages the following technologies:
 
 ## 📛 License
 
-This project is licensed under the **Creative Commons Legal Code CC0 1.0 Universal**. Feel free to use, modify, and share!
+This project is licensed under the **Creative Commons Legal Code CC0 1.0 Universal**.
 
 ---
 
