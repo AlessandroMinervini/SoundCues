@@ -46,6 +46,18 @@ Check out this playlist: [Spotify Link]
 
 ---
 
+## 🛠 Technologies Used
+
+SoundCues leverages the following technologies:
+
+- **Python** 🐍 - Core language for development
+- **Hugging Face Spaces** 🤗 - Hosting and deployment
+- **Gradio** 🎛 - Interactive UI for user queries
+- **Spotify API** 🎵 - Fetching song and artist recommendations
+- **Docker** 🐳 - Containerized deployment for easy scalability
+
+---
+
 ## 📛 License
 
 This project is licensed under the **Creative Commons Legal Code CC0 1.0 Universal**. Feel free to use, modify, and share!
@@ -54,7 +66,7 @@ This project is licensed under the **Creative Commons Legal Code CC0 1.0 Univers
 
 ## 📩 Contact
 
-For any questions, feel free to reach out at **minervini.ale@gmail.com**.
+For any inquiries, feel free to reach out at **[minervini.ale@gmail.com](mailto\:minervini.ale@gmail.com)**.
 
 Enjoy your personalized music recommendations with **SoundCues**! 🎶🔥
 
