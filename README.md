@@ -55,6 +55,8 @@ SoundCues leverages the following technologies:
 - **Gradio** 🎛 - Interactive UI for user queries
 - **Spotify API** 🎵 - Fetching song and artist recommendations
 - **Docker** 🐳 - Containerized deployment for easy scalability
+- **Llama-3.1-8B-Instruct** 🦙 - AI model used for generating recommendations
+- **RunPod** ☁️ - Serverless hosting for AI model
 
 ---
 
@@ -66,7 +68,6 @@ This project is licensed under the **Creative Commons Legal Code CC0 1.0 Univers
 
 ## 📩 Contact
 
-For any inquiries, feel free to reach out at **[minervini.ale@gmail.com](mailto\:minervini.ale@gmail.com)**.
+For any inquiries, feel free to reach out at **[minervini.ale@gmail.com](mailto:minervini.ale@gmail.com)**.
 
 Enjoy your personalized music recommendations with **SoundCues**! 🎶🔥
-
