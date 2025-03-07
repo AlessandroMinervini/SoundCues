@@ -1,0 +1,10 @@
+spotipy
+fastapi
+python-multipart
+pandas
+loguru
+uvicorn
+python-dotenv
+openai
+gradio
+requests
