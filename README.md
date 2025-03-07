@@ -68,6 +68,6 @@ This project is licensed under the **Creative Commons Legal Code CC0 1.0 Univers
 
 ## 📩 Contact
 
-For any inquiries, feel free to reach out at **[minervini.ale@gmail.com](mailto:minervini.ale@gmail.com)**.
+For any questions, feel free to reach out at **[minervini.ale@gmail.com](mailto:minervini.ale@gmail.com)**.
 
 Enjoy your personalized music recommendations with **SoundCues**! 🎶🔥
